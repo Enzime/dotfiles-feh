@@ -1,0 +1,9 @@
+# unbind some pesky stuff
+save_filelist
+save_image
+remove
+delete
+
+# assign f to its rightful binding
+toggle_fullscreen f
+

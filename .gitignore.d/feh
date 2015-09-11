@@ -1,0 +1,7 @@
+*
+!/.config
+!/.config/feh
+!/.config/feh/buttons
+!/.config/feh/keys
+!/.gitignore.d
+!/.gitignore.d/feh

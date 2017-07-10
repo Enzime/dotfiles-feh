@@ -1,9 +1,12 @@
 # unbind some pesky stuff
-save_filelist
 save_image
-remove
 delete
 
 # assign f to its rightful binding
 toggle_fullscreen f
 
+# new binding for saving filelists
+save_filelist S
+
+# new binding for removing files from the current filelist
+remove S-Delete
